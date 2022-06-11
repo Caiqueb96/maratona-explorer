@@ -1,5 +1,7 @@
 Projeto feito durante a maratona explore da Rocketseat, onde fizemos uma bola de cristal que responde as perguntas feitas pelo usúario, usamos HTM, CSS e JAVASCRIPT
 
+Link do site: https://bola-decristal.netlify.app/
+
 # HTML
 - HyperText Markup Language
 
